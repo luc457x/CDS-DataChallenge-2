@@ -3,3 +3,4 @@
 - **data_DataAnalysts_ext.csv**: Tabela com dados de analistas de dados, analistas de BI e cientistas de dados.
 - **data_gestores.csv**: Tabela com dados de gestores.
 - **data_abroad.csv**: Tabela com dados de funcionarios trabalhando para o exterior.
+- **data_prog_linguagens**: Tabela com dados referentes a linguagens de programação.
