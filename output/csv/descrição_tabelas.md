@@ -1,1 +1,5 @@
-
+- **data_clean.csv**: Tabela com dados limpos. *Ainda pode ser diminuido o número de colunas*
+- **data_DataAnalysts.csv**: Tabela com dados de analistas de dados.
+- **data_DataAnalysts_ext.csv**: Tabela com dados de analistas de dados, analistas de BI e cientistas de dados.
+- **data_gestores.csv**: Tabela com dados de gestores.
+- **data_abroad.csv**: Tabela com dados de funcionarios trabalhando para o exterior.
