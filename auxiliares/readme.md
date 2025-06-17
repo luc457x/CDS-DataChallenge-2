@@ -40,7 +40,7 @@ Para isso, o time recebeu uma base **anonimizada da pesquisa nacional do Kaggle 
 - [ ] - 5. Qual o perfil dos profissionais que mais demonstram insatisfação com o trabalho atual?
 - [ ] - 6. Qual a linguagem de programação mais comum entre quem ganha mais de R$10 mil por mês?
 - [ ] - 7. Que fatores aparecem entre os profissionais mais satisfeitos com o trabalho atual?
-- [ ] - 8. Qual o nível de escolaridade dos profissionais que atuam como Cientista de Dados Sênior?
+- [x] - 8. Qual o nível de escolaridade dos profissionais que atuam como Cientista de Dados Sênior?
 - [ ] - 9. Os profissionais com mais de um curso ou certificação possuem salários maiores?
 - [ ] - 10. Com base nos dados, quais 3 ações o RH pode tomar para ser mais competitivo na atração de talentos?
 - [ ] - 11. Quais as principais habilidades dos profissionais contratados?
