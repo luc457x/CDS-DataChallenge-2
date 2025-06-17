@@ -25,7 +25,7 @@ Para isso, o time recebeu uma base **anonimizada da pesquisa nacional do Kaggle 
 
 # **🧠 Objetivo do Exercício**
 
-- [ ]  **Explorar e entender as colunas disponíveis no dataset**
+- [X]  **Explorar e entender as colunas disponíveis no dataset**
 - [ ]  **Cruzar dados técnicos (linguagens, ferramentas)** com **dados demográficos e de satisfação**
 - [ ]  **Criar dashboards visuais claros** com as ferramentas permitidas
 - [ ]  **Responder às perguntas de negócio do CEO**
