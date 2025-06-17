@@ -39,7 +39,7 @@ Para isso, o time recebeu uma base **anonimizada da pesquisa nacional do Kaggle 
 
 # **📌 10 Perguntas que o CEO quer responder**
 
-### [ ] 1. Quais estados concentram os profissionais com mais conhecimento em Python e SQL?
+### - [ ] 1. Quais estados concentram os profissionais com mais conhecimento em Python e SQL?
 
 P1_i (cidade), P1_i_1(estado), P1_i_2(região)   
 
@@ -47,7 +47,7 @@ versus
 
 P4_d, P4_d_1 (SQL), P4_d_3 (Python), P4_e (mais utilizada), P4_f (preferida)
 
-### [ ] 2. Existe correlação entre idade e domínio de ferramentas como Power BI e Tableau?
+### - [ ] 2. Existe correlação entre idade e domínio de ferramentas como Power BI e Tableau?
 
 P1_1, P1_a_1
 
@@ -55,7 +55,7 @@ versus
 
 P4_j, P4_j_1 (SQL), P4_j_3 (Python),  P4_k (preferida)
 
-### [x] 3. Qual o nível de inglês predominante entre os profissionais mais experientes?
+### - [x] 3. Qual o nível de inglês predominante entre os profissionais mais experientes?
 
 P2_g (Níveis), P2_i (anos de experiência) (Precisa formatar essa coluna/number+string)
 
@@ -63,7 +63,7 @@ versus
 
 Não achei nada relacionado a lingua (aqui o mais próximo que encontrei foi as pessoas que trabalham para empresas internacionais)
 
-### [ ] 4. Quais ferramentas de nuvem são mais dominadas por quem tem +5 anos de experiência?
+### - [ ] 4. Quais ferramentas de nuvem são mais dominadas por quem tem +5 anos de experiência?
 
 P2_g (N=ivel Senior), P2_i (anos de experiência) (Precisa formatar essa coluna/number+string)
 
@@ -71,7 +71,7 @@ versus
 
 P4_h, P4_i
 
-### [ ] 5. Qual o perfil dos profissionais que mais demonstram insatisfação com o trabalho atual?
+### - [ ] 5. Qual o perfil dos profissionais que mais demonstram insatisfação com o trabalho atual?
 
 Caracteristicas que definem um perfil profissional:
 
@@ -92,7 +92,7 @@ Caracteristicas que definem um perfil profissional:
     insatisfação (P2_k)
     
 
-### [ ] 6. Qual a linguagem de programação mais comum entre quem ganha mais de R$10 mil por mês?
+### - [ ] 6. Qual a linguagem de programação mais comum entre quem ganha mais de R$10 mil por mês?
 
 Faixa salarial (P2_h) 
 
@@ -100,11 +100,11 @@ versus
 
 P4_e (mais utilizada), P4_f (preferida)
 
-### [ ] 7. Que fatores aparecem entre os profissionais mais satisfeitos com o trabalho atual?
+### - [ ] 7. Que fatores aparecem entre os profissionais mais satisfeitos com o trabalho atual?
 
 Podemos usar a análise da pergunta: “Qual o perfil dos profissionais que mais demonstram insatisfação com o trabalho atual?” utilizando o outro ponto de vista dessa análise.
 
-### [ ] 8. Qual o nível de escolaridade dos profissionais que atuam como Cientista de Dados Sênior?
+### - [ ] 8. Qual o nível de escolaridade dos profissionais que atuam como Cientista de Dados Sênior?
 
 Nível de ensino (P1_l)
 
@@ -114,7 +114,7 @@ Nível (senior, pleno, junior) (P2_g)
 
 Cargo (P2_f)
 
-### [ ] 9. Os profissionais com mais de um curso ou certificação possuem salários maiores?
+### - [ ] 9. Os profissionais com mais de um curso ou certificação possuem salários maiores?
 
 Faixa salarial (P2_h)
 
@@ -122,17 +122,17 @@ versus
 
 Nível de ensino (P1_l)
 
-### [ ] 10. Com base nos dados, quais 3 ações o RH pode tomar para ser mais competitivo na atração de talentos?
+### - [ ] 10. Com base nos dados, quais 3 ações o RH pode tomar para ser mais competitivo na atração de talentos?
 
 1. Garimpar entre os profissionais insatisfeitos, suprindo os principais fatores de insatisfação dos profissionais. Ver análise da pergunta (Qual o perfil dos profissionais que mais demonstram insatisfação com o trabalho atual?)
 2. Salários competitivos e de acordo nível, mas levando em consideração um plano de carreira com métricas bem claras para promoções e incentivo para aperfeiçoamento profissional.
 3. A partir da análise sobre o perfil dos proficionais satisfeitos, mapear os setores onde estes profissionais atuam, identificar e recrutar estes profissionais.
 
-### [ ] 11. Quais as principais habilidades dos profissionais contratados?
+### - [ ] 11. Quais as principais habilidades dos profissionais contratados?
 
 O que eles querem dizer com contratados? Que estão empregados.
 
-### [x] 12. Qual a faixa salarial por senioridade de analistas e cientistas de dados?
+### - [x] 12. Qual a faixa salarial por senioridade de analistas e cientistas de dados?
 
 Faixa salarial (P2_h)
 
@@ -140,7 +140,7 @@ versus
 
 Cargo (P2_f), Nível (senior, pleno, junior) (P2_g)
 
-### [x] 13. Os profissionais da área de dados estão trabalhando em qual modalidade?
+### - [x] 13. Os profissionais da área de dados estão trabalhando em qual modalidade?
 
 Cargo (P2_f), Nível (senior, pleno, junior) (P2_g)
 
