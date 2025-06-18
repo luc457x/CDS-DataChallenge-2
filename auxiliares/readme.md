@@ -33,7 +33,7 @@ Para isso, o time recebeu uma base **anonimizada da pesquisa nacional do Kaggle 
 
 # **❓ Perguntas Respondidas**
 
-- [ ] - 1. Quais estados concentram os profissionais com mais conhecimento em Python e SQL?
+- [x] - 1. Quais estados concentram os profissionais com mais conhecimento em Python e SQL?
 - [ ] - 2. Existe correlação entre idade e domínio de ferramentas como Power BI e Tableau?
 - [x] - 3. Qual o nível de inglês predominante entre os profissionais mais experientes?
 - [ ] - 4. Quais ferramentas de nuvem são mais dominadas por quem tem +5 anos de experiência?
@@ -56,6 +56,8 @@ Para isso, o time recebeu uma base **anonimizada da pesquisa nacional do Kaggle 
 # **📌 10 Perguntas que o CEO quer responder**
 
 ### 1. Quais estados concentram os profissionais com mais conhecimento em Python e SQL?
+
+** Esta pergunta abre possibilidades de novas análises para recomendação de ações ao RH, sobre aonde focar na atração de novos talentos. Por exemplo, SP é onde mais tem profissionais com conhecimento em SQL e Python, mas sera que é onde tem mais profissionais desempregados ou descontentes com o trabalho atual? **
 
 P1_i (cidade), P1_i_1(estado), P1_i_2(região)   
 

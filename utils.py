@@ -56,3 +56,6 @@ def check_columns_for_set(column, value_set):
     """Encontra as colunas que contem apenas subconjuntos de um conjunto de valores."""
     non_nan_values = column.dropna()
     return non_nan_values.isin(value_set).all()
+
+def to_percent(y, position):
+    return f'{y * 100:.0f}%'
