@@ -34,7 +34,7 @@ Para isso, o time recebeu uma base **anonimizada da pesquisa nacional do Kaggle 
 # **❓ Perguntas Respondidas**
 
 - [x] - 1. Quais estados concentram os profissionais com mais conhecimento em Python e SQL?
-- [ ] - 2. Existe correlação entre idade e domínio de ferramentas como Power BI e Tableau?
+- [x] - 2. Existe correlação entre idade e domínio de ferramentas como Power BI e Tableau?
 - [x] - 3. Qual o nível de inglês predominante entre os profissionais mais experientes?
 - [ ] - 4. Quais ferramentas de nuvem são mais dominadas por quem tem +5 anos de experiência?
 - [ ] - 5. Qual o perfil dos profissionais que mais demonstram insatisfação com o trabalho atual?
