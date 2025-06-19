@@ -4,6 +4,8 @@ import re
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+pd.set_option('future.no_silent_downcasting', True)
+
 def checkNaN(df):
     """Recebe um DataFrame e retorna a quantidade de valores nulos e não nulos."""
     null_count = df.isna().sum()
@@ -35,14 +37,14 @@ def checkOutliers(df):
     return dfOutliers
 
 def corr(df):
-    plt.figure(figsize=(10,8))
+    plt.figure(figsize=(20,16))
     sns.heatmap(df.select_dtypes(include=[np.number]).corr(), annot=True)
     plt.show()
     return
 
 def hist(df):
     # Recebe um DataFrame e plota um histograma para cada coluna numérica.
-    df.hist(bins=50, figsize=(25,10))
+    df.hist(bins=50, figsize=(25,16))
     plt.show()
     return
 
