@@ -48,7 +48,7 @@ def hist(df):
 
 def extract_words(column_name):
     # Encontra todas as palavras dentro das aspas simples
-    matches = re.findall(r'\'(.*?)\'', column_name)
+    matches = re.findall(r"\'(.*?)\'", column_name)
     # Remove espaços extras e junta as palavras encontradas
     return ' '.join(match.strip() for match in matches)
 
@@ -59,3 +59,30 @@ def check_columns_for_set(column, value_set):
 
 def to_percent(y, position):
     return f'{y * 100:.0f}%'
+
+
+def extract_last_number(text):
+    # Verifica se o input é diferente de string ou Series do pandas
+    if not isinstance(text, (str, pd.Series)):
+        # Retorna o própio input
+        return text
+    # Verifica se o input é uma string
+    if isinstance(text, str):
+        # Regex para encontrar todos os números na string
+        numbers = re.findall(r"\b\d[\d.,]*\b", text)
+        # Se houver pelo menos dois números, retorna o último
+        if len(numbers) > 1:
+            return numbers[-1]
+        # Se houver apenas um número, retorna esse número
+        elif len(numbers) == 1:
+            return numbers[0]
+        # Se não houver números, retorna 0
+        else:
+            return 0
+    # Verifica se o input é uma Series do pandas
+    elif isinstance(text, pd.Series):
+        # Aplica a função a cada elemento da Series, a transformando em string
+        return text.apply(extract_last_number)
+    
+def calc_percent(val, total):
+    return val.div((total), fill_value=0).replace([np.inf, -np.inf], 0)
