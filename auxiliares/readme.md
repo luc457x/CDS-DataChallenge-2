@@ -38,7 +38,7 @@ Para isso, o time recebeu uma base **anonimizada da pesquisa nacional do Kaggle 
 - [x] - 3. Qual o nível de inglês predominante entre os profissionais mais experientes?
 - [ ] - 4. Quais ferramentas de nuvem são mais dominadas por quem tem +5 anos de experiência?
 - [ ] - 5. Qual o perfil dos profissionais que mais demonstram insatisfação com o trabalho atual?
-- [ ] - 6. Qual a linguagem de programação mais comum entre quem ganha mais de R$10 mil por mês?
+- [x] - 6. Qual a linguagem de programação mais comum entre quem ganha mais de R$10 mil por mês?
 - [ ] - 7. Que fatores aparecem entre os profissionais mais satisfeitos com o trabalho atual?
 - [x] - 8. Qual o nível de escolaridade dos profissionais que atuam como Cientista de Dados Sênior?
 - [ ] - 9. Os profissionais com mais de um curso ou certificação possuem salários maiores?

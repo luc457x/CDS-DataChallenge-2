@@ -9,6 +9,6 @@ Indice de tabelas:
 - **data_DataAnalysts_ext.csv**: Tabela com dados de analistas de dados, analistas de BI e cientistas de dados.
 - **data_prog_linguagens.csv**: Tabela com dados referentes a linguagens de programação.
 - **data_prog_linguagens_ext.csv**: Tabela referente a linguagens de programação, com tranformações para a plotagem.
-- **data_prog_linguagens_targets.csv** Tabelareferente a linguagens de programação, filtrado pela tabela data_DataAnalysts_ext.csv.
-- **data_prog_linguagens_targets_ext.csv** Tabelareferente a linguagens de programação, com tranformações para a plotagem, filtrado pela tabela data_DataAnalysts_ext.csv.
-
+- **data_prog_linguagens_targets.csv**: Tabela referente a linguagens de programação, filtrado pela tabela data_DataAnalysts_ext.csv.
+- **data_prog_linguagens_targets_ext.csv**: Tabela referente a linguagens de programação, com tranformações para a plotagem, filtrado pela tabela data_DataAnalysts_ext.csv.
+- **data_targets_profile.csv**: Tabela para criar perfil dos profissionais.
