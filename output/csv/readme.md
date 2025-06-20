@@ -1,8 +1,14 @@
+Indice de tabelas:
+- **data_abroad.csv**: Tabela com dados de funcionarios trabalhando para o exterior.
+- **data_bi_tools.csv**: Tabela com dados referentes a ferramentas de BI.
+- **data_bi_tools_ext.csv**: Tabela com dados referentes a ferramentas de BI, com tranformações para a plotagem.
+- **data_bi_tools_targets.csv**: Tabela com dados referentes a ferramentas de BI, filtrado pela tabela data_DataAnalysts_ext.csv.
+- **data_bi_tools_targets_ext.csv**: Tabela com dados referentes a ferramentas de BI, com tranformações para a plotagem, filtrado pela tabela data_DataAnalysts_ext.csv.
 - **data_clean.csv**: Tabela com dados limpos. *(Ainda pode ser diminuido o número de colunas.)*
 - **data_DataAnalysts.csv**: Tabela com dados de analistas de dados.
 - **data_DataAnalysts_ext.csv**: Tabela com dados de analistas de dados, analistas de BI e cientistas de dados.
-- **data_gestores.csv**: Tabela com dados de gestores.
-- **data_abroad.csv**: Tabela com dados de funcionarios trabalhando para o exterior.
 - **data_prog_linguagens.csv**: Tabela com dados referentes a linguagens de programação.
-- **data_prog_linguagens_ext.csv**: Tabela referente a linguagens de programação, com tranformações para melhor plotagem.
-- **data_prog_linguagens_targets.csv** Tabelareferente a linguagens de programação, com tranformações para melhor plotagem, filtrado pela tabela data_DataAnalysts_ext.csv.
+- **data_prog_linguagens_ext.csv**: Tabela referente a linguagens de programação, com tranformações para a plotagem.
+- **data_prog_linguagens_targets.csv** Tabelareferente a linguagens de programação, filtrado pela tabela data_DataAnalysts_ext.csv.
+- **data_prog_linguagens_targets_ext.csv** Tabelareferente a linguagens de programação, com tranformações para a plotagem, filtrado pela tabela data_DataAnalysts_ext.csv.
+
