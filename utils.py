@@ -4,6 +4,7 @@ import re
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+pd.set_option("display.max_columns", None)
 pd.set_option('future.no_silent_downcasting', True)
 
 def checkNaN(df):
