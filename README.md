@@ -5,5 +5,5 @@
 
 ## Integrantes:
   - <a href="https://github.com/luc457x">Lucas Teixeira</a>
-  - <a href=https://github.com/cmds1914>Claudio Mendes<a>
-  - Eduardo Ruaro
+  - <a href=https://github.com/cmds1914>Claudio Mendes</a>
+  - <a href=https://github.com/eduruaro>Eduardo Ruaro</a>
